@@ -1,0 +1,5 @@
+{
+  "name": "Star Atlas AI Agent",
+  "description": "An intelligent agent to assist Star Atlas players with decision-making and task execution, including fleet and guild management.",
+  "requestFramePermissions": []
+}
